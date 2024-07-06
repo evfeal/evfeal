@@ -11,6 +11,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
+<a href="https://matrix.to/#/@evfeal:matrix.org" target="blank"><img align="center" src="https://matrix.org/images/matrix-logo-white.svg" alt="matrix" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21015725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21015725" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/evfeal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="evfeal" height="30" width="40" /></a>
 </p>
