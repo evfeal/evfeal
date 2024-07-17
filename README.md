@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **java**
 
-- 👨‍💻 All of my projects are available at [evanalvarez.xyz](evanalvarez.xyz)
+- 👨‍💻 All of my projects are available at [evanalvarez.xyz](https://evanalvarez.xyz)
 
 - 📫 How to reach me **evanalvarez@tutanota.com**
 
