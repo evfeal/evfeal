@@ -1,1 +1,1 @@
-<h1 align="center"New GitHub at (github.com/qital)[https://github.com/qital]</h1>
+<h1 align="center"> New GitHub at (github.com/qital)[https://github.com/qital]</h1>
